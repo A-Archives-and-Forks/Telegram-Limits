@@ -437,6 +437,10 @@
             {
                 "id": "poll_option_length",
                 "icon": "short_text"
+            },
+            {
+                "id": "maximum_countries_number",
+                "icon": "add_location_alt"
             }
         ]
     },
@@ -879,6 +883,10 @@
             {
                 "id": "price_paid_post_ton_cryptocurrency",
                 "icon": "credit_card"
+            },
+            {
+                "id": "cooldown_before_ton_withdrawal",
+                "icon": "hourglass_top"
             }
         ]
     },
@@ -986,6 +994,21 @@
             {
                 "id": "channel_level_activate_channelwide_automatic_translation",
                 "icon": "translate"
+            }
+        ]
+    },
+    {
+        "id": "ai_editor",
+        "icon": "edit_note",
+        "color": "156, 204, 101",
+        "items": [
+            {
+                "id": "maximum_style_numbers",
+                "icon": "format_list_numbered_rtl"
+            },
+            {
+                "id": "style_title_length",
+                "icon": "drive_file_rename_outline"
             }
         ]
     }
